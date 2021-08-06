@@ -14,9 +14,8 @@ root.title("Message Encode and Decode")
 
 
 #label
-
 Label(root, text ='ENCODE DECODE', font = 'arial 20 bold').pack()
-Label(root, text ='DataFlair', font = 'arial 20 bold').pack(side =BOTTOM)
+
 
 
 #define variables
